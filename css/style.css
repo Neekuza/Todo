@@ -1,0 +1,17 @@
+.container {
+    margin-top: 5em;
+}
+
+.controls {
+    float: right;
+}
+
+.controls a {
+    margin: 0.2em;
+    text-decoration: none;
+}
+
+.edit-link,
+.delete-link {
+    right: 0;
+}

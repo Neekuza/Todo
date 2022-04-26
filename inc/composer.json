@@ -1,0 +1,8 @@
+{
+    "require": {
+        "catfan/medoo": "dev-master",
+        "joseph-lenton/php-error": "dev-master",
+        "filp/whoops": "dev-master",
+        "components/jquery": "dev-master"
+    }
+}
