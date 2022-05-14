@@ -1,4 +1,4 @@
-<?php include_once "inc\partials\header.php"?>
+<?php include_once "inc\partials\header.php";?>
 <div class="page-header">
     <h1>What should i do?</h1>
 </div>

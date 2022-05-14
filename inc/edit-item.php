@@ -1,6 +1,6 @@
 <?php
 
-    require 'config.php';
+    require_once 'config.php';
 $affected = $database ->update('items',
 [ 'text'=> $_POST['message']], 
 [  'id'=> $_POST['id']

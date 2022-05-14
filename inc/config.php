@@ -15,7 +15,6 @@
     include 'error.reporting.php';
     // Using Medoo namespace.
     use Medoo\Medoo;
-     
     // Connect the database.
     $database = new Medoo([
         // [required]
@@ -30,4 +29,4 @@
 
 
     //directory variable
-    $base_url = 'http://localhost/todo';
+    $base_url = 'http://localhost';
