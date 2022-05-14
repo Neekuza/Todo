@@ -79,5 +79,9 @@
         return confirm('Si si kurva istý???');
     });
 
+    function play() {
+        var audio = new Audio("inc\partials\sounds\lvlup.mp3");
+        audio.play();
+    }
 
 }(jQuery));

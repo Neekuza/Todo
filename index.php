@@ -16,7 +16,7 @@ foreach($data as $item){
     echo'<div class="controls">';
     echo'<a href="edit.php?id='.$item['id'].'" class="edit-link"><i class="fa-solid fa-pen"></i></a>';
     echo'<a href="delete.php?id='.$item['id'].'" class="delete-link text-muted"><i class="fa-solid fa-circle-xmark"></i></a>';
-    echo'<a href="inc/delete-item-instantly.php?id='.$item['id'].'" class="done-link"><i class="fa-solid fa-check"></i></a>';
+    echo'<a href="inc/delete-item-instantly.php?id='.$item['id'].'" class="done-link"><i class="fa-solid fa-check" onclick="play();"></i></a>';
     echo '</div>';
     echo'</li>';
 }
