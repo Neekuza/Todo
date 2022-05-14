@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => '4ac2fc41bd8025d390fd7445e76a5d0242f777c1',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => '4ac2fc41bd8025d390fd7445e76a5d0242f777c1',
             'dev_requirement' => false,
         ),
         'catfan/medoo' => array(
@@ -27,7 +27,7 @@
             'aliases' => array(
                 0 => '9999999-dev',
             ),
-            'reference' => 'bf7d672e9b5384f375249d5ba2783ee7bee08138',
+            'reference' => '86ac2b376303f6c3c8e915be9051599b67a8a09e',
             'dev_requirement' => false,
         ),
         'components/jquery' => array(
@@ -38,7 +38,7 @@
             'aliases' => array(
                 0 => '9999999-dev',
             ),
-            'reference' => '6cf38ee1fd04b6adf8e7dda161283aa35be818c3',
+            'reference' => 'e1aae44bdc763e95e49128bb78f82008714c43db',
             'dev_requirement' => false,
         ),
         'filp/whoops' => array(
@@ -49,7 +49,7 @@
             'aliases' => array(
                 0 => '2.7.x-dev',
             ),
-            'reference' => 'f056f1fe935d9ed86e698905a957334029899895',
+            'reference' => '4e4ede8ceb17d3373ba8711ec4ae6e45ec91ea81',
             'dev_requirement' => false,
         ),
         'joseph-lenton/php-error' => array(

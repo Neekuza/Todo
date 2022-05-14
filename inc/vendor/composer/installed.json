@@ -7,12 +7,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/catfan/Medoo.git",
-                "reference": "bf7d672e9b5384f375249d5ba2783ee7bee08138"
+                "reference": "86ac2b376303f6c3c8e915be9051599b67a8a09e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/catfan/Medoo/zipball/bf7d672e9b5384f375249d5ba2783ee7bee08138",
-                "reference": "bf7d672e9b5384f375249d5ba2783ee7bee08138",
+                "url": "https://api.github.com/repos/catfan/Medoo/zipball/86ac2b376303f6c3c8e915be9051599b67a8a09e",
+                "reference": "86ac2b376303f6c3c8e915be9051599b67a8a09e",
                 "shasum": ""
             },
             "require": {
@@ -30,7 +30,7 @@
                 "ext-pdo_sqlite": "For SQLite database",
                 "ext-pdo_sqlsrv": "For MSSQL database on both Window/Liunx platform"
             },
-            "time": "2021-10-09T08:31:11+00:00",
+            "time": "2022-05-10T02:47:28+00:00",
             "default-branch": true,
             "type": "framework",
             "installation-source": "dist",
@@ -87,15 +87,15 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/components/jquery.git",
-                "reference": "6cf38ee1fd04b6adf8e7dda161283aa35be818c3"
+                "reference": "e1aae44bdc763e95e49128bb78f82008714c43db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/components/jquery/zipball/6cf38ee1fd04b6adf8e7dda161283aa35be818c3",
-                "reference": "6cf38ee1fd04b6adf8e7dda161283aa35be818c3",
+                "url": "https://api.github.com/repos/components/jquery/zipball/e1aae44bdc763e95e49128bb78f82008714c43db",
+                "reference": "e1aae44bdc763e95e49128bb78f82008714c43db",
                 "shasum": ""
             },
-            "time": "2021-03-20T19:13:42+00:00",
+            "time": "2022-02-20T20:58:48+00:00",
             "default-branch": true,
             "type": "component",
             "extra": {
@@ -140,12 +140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/filp/whoops.git",
-                "reference": "f056f1fe935d9ed86e698905a957334029899895"
+                "reference": "4e4ede8ceb17d3373ba8711ec4ae6e45ec91ea81"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/filp/whoops/zipball/f056f1fe935d9ed86e698905a957334029899895",
-                "reference": "f056f1fe935d9ed86e698905a957334029899895",
+                "url": "https://api.github.com/repos/filp/whoops/zipball/4e4ede8ceb17d3373ba8711ec4ae6e45ec91ea81",
+                "reference": "4e4ede8ceb17d3373ba8711ec4ae6e45ec91ea81",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
                 "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
                 "whoops/soap": "Formats errors as SOAP responses"
             },
-            "time": "2021-10-03T12:00:00+00:00",
+            "time": "2022-02-12T15:49:02+00:00",
             "default-branch": true,
             "type": "library",
             "extra": {
@@ -198,7 +198,7 @@
             ],
             "support": {
                 "issues": "https://github.com/filp/whoops/issues",
-                "source": "https://github.com/filp/whoops/tree/2.14.4"
+                "source": "https://github.com/filp/whoops/tree/master"
             },
             "funding": [
                 {
