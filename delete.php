@@ -23,7 +23,7 @@ include_once "inc/partials/header.php"
         <textarea disabled class="form-control" id="text" name="message" rows="1" autofocus><?php echo $item ?></textarea>
     </p>
     <p class="form-group">
-        <input name="id"  value="<?php echo $_GET['id'] ?>">
+        <input name="id" type="hidden" value="<?php echo $_GET['id'] ?>">
         <input type="submit" value="delete item" class="btn-sm btn-danger">
         <span class="controls">
             <a href="<?php echo $base_url ?>" class="back-link text-muted">back</a>
